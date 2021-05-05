@@ -1,0 +1,68 @@
+ID,Name,Code,MetaTitle,Image,Price,CreatedDate,label
+1,Laptop dell vostro black,A01,laptop-dell-vostro-black,/assets/client/images/Lap1.jpg,12000000,13:19.9,0
+2,Laptop Dell Inspiron Core i3,A02,laptop-dell-inspiron-core-i3,/assets/client/images/Lap2.jpg,100000,06:23.3,0
+3,Laptop Dell Inspiron N3543 Core i7,A03,laptop-dell- inspiron-N3543-core-i7,/assets/client/images/Lap3.jpg,90000000,08:42.5,0
+4,Laptop Dell Vostro 5468 Core i5,A04,laptop-dell-vostro-5468-core-i5,/assets/client/images/Lap4.jpg,14500000,08:50.5,0
+5,Laptop Dell Vostro N5459 Core i3,A05,laptop-dell-vostro-N5459-core-i3,/assets/client/images/Lap5.jpg,21000000,09:00.6,1
+6,Laptop Dell Inspiron 14R-5437,A06,laptop-dell-inspiron-14R-5437,/assets/client/images/Lap6.jpg,15300000,09:16.5,0
+7,Laptop Dell Inspiron I14R-1296TMR,A07,Laptop-Dell-Inspiron-I14R1296TMR,/assets/client/images/Lap7.jpg,12540000,09:23.0,0
+10,Laptop Asus ROG FX553VD Core i5,A09,laptop-asus-ROG-FX553VD-core-i5,/assets/client/images/Lap9.jpg,12000000,09:33.2,0
+11,Laptop Asus Transformer Book T300,A10,laptop-asus-transformer-book-T300,/assets/client/images/Lap10.jpg,30000000,09:51.3,2
+12,Laptop Asus VivoBook S15 S510UQ Core i5,A11,laptop-asus-vivoBook-S15-S510UQ-core-i5,/assets/client/images/Lap11.jpg,11500000,10:18.0,0
+13,Laptop Asus X102BA,A12,laptop-asus-X102BA,/assets/client/images/Lap12.jpg,13000000,10:24.2,0
+14,Laptop Asus X452EA AMD Dual,A13,laptop-asus-X452EA-AMD-dual,/assets/client/images/Lap13.jpg,9000000,10:28.3,0
+15,Laptop Asus X540YA-E1 Dual Core i3,A14,laptop-asus-X540YA-E1-dual-core-i3,/assets/client/images/Lap14.jpg,9500000,10:32.6,0
+16,Laptop Asus Transformer Book,A15,laptop-asus-transformer-book,/assets/client/images/Lap15.jpg,15000000,12:32.1,0
+17,Laptop Asus X441NA,A16,laptop-asus-X441NA,/assets/client/images/Lap16.jpg,13000000,13:01.0,0
+18,Laptop Asus N301 Core i7,A17,laptop-asus-N301-core-i7,/assets/client/images/Lap17.jpg,12500000,13:04.9,0
+19,Laptop HP EliteBook 840 G3,A18,laptop-hp-eliteBook-840-G3,/assets/client/images/Lap18.jpg,13000000,13:08.8,0
+20,Laptop HP Pavilion Core i5,A19,laptop-hp-pavilion-core-i5,/assets/client/images/Lap19.jpg,21000000,13:12.6,1
+27,laptop,a011,,/Data/files/slidebar1.png,13200000,13:16.5,1
+92,Laptop Apple MacBook Pro M1 2020,a0128,Laptop Apple MacBook Pro M1 2020,/assets/client/images/Lap12.jpg,31990000,13:12.6,2
+93,Laptop Dell Inspiron 3501 i5,a02i0,Laptop Dell Inspiron 3501 i5,/assets/client/images/Lap12.jpg,18890000,13:12.6,1
+94,Laptop Lenovo IdeaPad S340 ,a018732,Laptop Lenovo IdeaPad S340 ,/assets/client/images/Lap12.jpg,13990000,13:12.6,0
+95,Laptop Dell Vostro 3500 i5,a02983,Laptop Dell Vostro 3500 i5,/assets/client/images/Lap12.jpg,16990000,13:12.6,0
+96,Laptop Asus VivoBook X415JA i5,a012398,Laptop Asus VivoBook X415JA i5,/assets/client/images/Lap12.jpg,15490000,13:12.6,0
+97,Laptop Lenovo IdeaPad Slim 3 15IIL05 i3,a012389,Laptop Lenovo IdeaPad Slim 3 15IIL05 i3,/assets/client/images/Lap12.jpg,12990000,13:12.6,0
+98,Laptop Asus ZenBook UX325EA i5,a012398,Laptop Asus ZenBook UX325EA i5,/assets/client/images/Lap12.jpg,20690000,13:12.6,1
+99,Laptop Asus VivoBook A415EA i3,a012309,Laptop Asus VivoBook A415EA i3,/assets/client/images/Lap12.jpg,13690000,13:12.6,1
+100,Laptop HP Pavilion 14 dv0013TU i7,a0123i,Laptop HP Pavilion 14 dv0013TU i7,/assets/client/images/Lap12.jpg,21790000,13:12.6,1
+101,Laptop Asus VivoBook A415EA i3,a012398,Laptop Asus VivoBook A415EA i3,/assets/client/images/Lap12.jpg,14190000,13:12.6,0
+102,Laptop Dell G3 15 3500 i5,a012309,Laptop Dell G3 15 3500 i5,/assets/client/images/Lap12.jpg,22490000,13:12.6,1
+103,Laptop Asus VivoBook X509JP i5,a0132u,Laptop Asus VivoBook X509JP i5,/assets/client/images/Lap12.jpg,17190000,13:12.6,0
+38,Dell G3 15 3500B i7 10750H,a0123,Dell G3 15 3500B i7 10750H,/assets/client/images/Lap19.jpg,31890000,13:12.6,2
+71,MacBook Pro 16 2019 Touch Bar 23GHz Core i9,a0145,MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9,/assets/client/images/apd.jpg,69990000,13:12.6,2
+72,MacBook Pro 13 2020 Touch Bar 20GHz Core i5,a0146,MacBook Pro 13 2020 Touch Bar 2.0GHz Core i5,/assets/client/images/a.jpg,46990000,13:12.6,2
+73,Laptop Dell XPS 13 9310 i5 1135G7,a01244,Laptop Dell XPS 13 9310 i5 1135G7,/assets/client/images/b1.jpg,38940000,13:12.6,2
+74,Laptop Apple MacBook Pro M1 2020,a023i,Laptop Apple MacBook Pro M1 2020,/assets/client/images/c2.jpg,43990000,13:12.6,2
+75,Dell G3 15 3500B i7 10750H,a01247i,Dell G3 15 3500B i7 10750H,/assets/client/images/d4.jpg,30125325,13:12.6,2
+42,Laptop Acer Aspire 3 A315-57G-524Z i5,a0127,Laptop Acer Aspire 3 A315-57G-524Z i5,/assets/client/images/Lap12.jpg,14990000,13:12.6,1
+43,Laptop Lenovo IdeaPad Flex 5 14ITL05 i5,a0128,Laptop Lenovo IdeaPad Flex 5 14ITL05 i5,/assets/client/images/Lap12.jpg,18090000,13:12.6,1
+44,Laptop Dell Inspiron N3505 R3 3250U,a0129,Laptop Dell Inspiron N3505 R3 3250U,/assets/client/images/Lap12.jpg,12390000,13:12.7,1
+45,Laptop Asus VivoBook M413IA-EK481T R7 4700U,a0130,Laptop Asus VivoBook M413IA-EK481T R7 4700U,/assets/client/images/Lap12.jpg,18690000,13:12.6,1
+46,MacBook Pro 16" 2019 Touch Bar 2.3GHz Core i9,a0131,MacBook Pro 16" 2019 Touch Bar 2.3GHz Core i9,/assets/client/images/Lap12.jpg,69990000,13:12.6,3
+47,Laptop Asus Zenbook UX425EA BM069T i5,a01329,Laptop Asus Zenbook UX425EA BM069T i5,/assets/client/images/Lap12.jpg,21990000,13:12.7,2
+48,Laptop Acer Nitro 5 AN515-44-R9JM,a013398,Laptop Acer Nitro 5 AN515-44-R9JM,/assets/client/images/Lap12.jpg,19990000,13:12.6,1
+49,Laptop Lenovo Ideapad Gaming L340-15IRH 81LK01J3VN - Intel Core i5,a01344,Laptop Lenovo Ideapad Gaming L340-15IRH 81LK01J3VN - Intel Core i5,/assets/client/images/Lap12.jpg,17290000,13:12.6,1
+50,Laptop Gaming Asus TUF FX505DT-HN488T,a01359,Laptop Gaming Asus TUF FX505DT-HN488T,/assets/client/images/Lap12.jpg,16990000,13:12.7,1
+51,Laptop Lenovo IdeaPad S145 15IIL i3,a01379,Laptop Lenovo IdeaPad S145 15IIL,assets/client/images/Lap12.jpg,11490000,13:12.6,1
+52,Lenovo ThinkPad,a0138987,Lenovo ThinkPad	,/assets/client/images/Lap12.jpg,12490000,13:12.6,1
+53,LG Gram 15,a013789,LG Gram 15,/assets/client/images/Lap12.jpg,15490000,13:12.6,1
+54,HP Spectre x360,a01409,HP Spectre x360,/assets/client/images/Lap12.jpg,17490000,13:12.6,1
+55,Apple MacBook Air 13 inch,a0141,Apple MacBook Air 13 inch,/assets/client/images/Lap12.jpg,19490000,13:12.6,1
+56,Apple MacBook Pro 13 inch,a0142,Apple MacBook Pro 13 inch,/assets/client/images/Lap12.jpg,13490000,13:12.6,1
+57,Apple Macbook 12,a0149,Apple Macbook 12,/assets/client/images/Lap12.jpg,19490000,13:12.6,1
+58,LG Gram 13,a0144,LG Gram 13,/assets/client/images/Lap12.jpg,19990000,13:12.6,1
+59,MacBook Pro 16" 2019 Touch Bar 2.3GHz Core i9,a01459,MacBook Pro 16" 2019 Touch Bar 2.3GHz Core i9,/assets/client/images/Lap12.jpg,69990000,13:12.6,3
+60,MacBook Pro 13" 2020 Touch Bar 2.0GHz Core i5,a01461,MacBook Pro 13" 2020 Touch Bar 2.0GHz Core i5,/assets/client/images/Lap12.jpg,46990000,13:12.6,3
+61,MacBook Air 13" 2020 M1 256GB,a01444,MacBook Air 13" 2020 M1 256GB,/assets/client/images/Lap12.jpg,27490000,13:12.6,2
+62,Laptop Dell Vostro V3500 i7,a01249,Laptop Dell Vostro V3500 i7,/assets/client/images/Lap12.jpg,21590000,13:12.6,2
+63,Laptop Dell Vostro V3400 i3 1115G4,q14151,Laptop Dell Vostro V3400 i3 1115G4,/assets/client/images/Lap12.jpg,12490000,13:12.6,1
+64,Laptop Dell Vostro V3405 R5 3500U,c2541454,Laptop Dell Vostro V3405 R5 3500U,/assets/client/images/Lap12.jpg,12290000,13:12.6,1
+65,Laptop Dell Vostro V5301 i7,a01435,Laptop Dell Vostro V5301 i7,/assets/client/images/Lap12.jpg,26590000,13:12.6,2
+66,Laptop Dell XPS 13 9310 i5 1135G7,b215,Laptop Dell XPS 13 9310 i5 1135G7,/assets/client/images/Lap12.jpg,38940000,13:12.6,3
+67,Laptop Lenovo ThinkBook 15IIL i3 1005G1,a145,Laptop Lenovo ThinkBook 15IIL i3 1005G1,/assets/client/images/Lap12.jpg,11690000,13:12.6,1
+
+
+
+

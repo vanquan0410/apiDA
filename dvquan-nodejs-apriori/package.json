@@ -1,0 +1,37 @@
+{
+  "name": "apriori-service",
+  "version": "1.0.0",
+  "description": "thuật toán apriori",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js",
+    "prod": "node src/index.js",
+    "test-rdp": "node src/index.js"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "dvquan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "frequent-itemset": "^1.0.5",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.29",
+    "msnodesqlv8": "^2.0.15",
+    "mssql": "^6.3.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-apriori": "^1.0.0",
+    "numbers": "^0.7.0",
+    "sharp": "^0.28.0",
+    "simple-apriori": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

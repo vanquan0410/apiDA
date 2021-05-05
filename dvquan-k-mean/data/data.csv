@@ -1,0 +1,20 @@
+ID,Name,Code,MetaTitle,Image,Price,CreatedDate,label
+1,Laptop dell vostro black,A01,laptop-dell-vostro-black,/assets/client/images/Lap1.jpg,12000000,13:19.9,1
+2,Laptop Dell Inspiron Core i3,A02,laptop-dell-inspiron-core-i3,/assets/client/images/Lap2.jpg,100000,06:23.3,0
+3,Laptop Dell Inspiron N3543 Core i7,A03,laptop-dell- inspiron-N3543-core-i7,/assets/client/images/Lap3.jpg,90000000,08:42.5,2
+4,Laptop Dell Vostro 5468 Core i5,A04,laptop-dell-vostro-5468-core-i5,/assets/client/images/Lap4.jpg,14500000,08:50.5,1
+5,Laptop Dell Vostro N5459 Core i3,A05,laptop-dell-vostro-N5459-core-i3,/assets/client/images/Lap5.jpg,21000000,09:00.6,2
+6,Laptop Dell Inspiron 14R-5437,A06,laptop-dell-inspiron-14R-5437,/assets/client/images/Lap6.jpg,15300000,09:16.5,1
+7,Laptop Dell Inspiron I14R-1296TMR,A07,Laptop-Dell-Inspiron-I14R1296TMR,/assets/client/images/Lap7.jpg,12540000,09:23.0,1
+10,Laptop Asus ROG FX553VD Core i5,A09,laptop-asus-ROG-FX553VD-core-i5,/assets/client/images/Lap9.jpg,12000000,09:33.2,2
+11,Laptop Asus Transformer Book T300,A10,laptop-asus-transformer-book-T300,/assets/client/images/Lap10.jpg,30000000,09:51.3,2
+12,Laptop Asus VivoBook S15 S510UQ Core i5,A11,laptop-asus-vivoBook-S15-S510UQ-core-i5,/assets/client/images/Lap11.jpg,11500000,10:18.0,1
+13,Laptop Asus X102BA,A12,laptop-asus-X102BA,/assets/client/images/Lap12.jpg,13000000,10:24.2,1
+14,Laptop Asus X452EA AMD Dual,A13,laptop-asus-X452EA-AMD-dual,/assets/client/images/Lap13.jpg,9000000,10:28.3,0
+15,Laptop Asus X540YA-E1 Dual Core i3,A14,laptop-asus-X540YA-E1-dual-core-i3,/assets/client/images/Lap14.jpg,9500000,10:32.6,0
+16,Laptop Asus Transformer Book,A15,laptop-asus-transformer-book,/assets/client/images/Lap15.jpg,15000000,12:32.1,1
+17,Laptop Asus X441NA,A16,laptop-asus-X441NA,/assets/client/images/Lap16.jpg,13000000,13:01.0,1
+18,Laptop Asus N301 Core i7,A17,laptop-asus-N301-core-i7,/assets/client/images/Lap17.jpg,12500000,13:04.9,1
+19,Laptop HP EliteBook 840 G3,A18,laptop-hp-eliteBook-840-G3,/assets/client/images/Lap18.jpg,13000000,13:08.8,1
+20,Laptop HP Pavilion Core i5,A19,laptop-hp-pavilion-core-i5,/assets/client/images/Lap19.jpg,21000000,13:12.6,2
+27,laptop,a011,,/Data/files/slidebar1.png,13200000,13:16.5,1

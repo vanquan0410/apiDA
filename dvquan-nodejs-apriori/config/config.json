@@ -1,0 +1,14 @@
+{
+    "application": {
+        "port": 5000,
+        "host": "http://localhost:5000"
+    },
+    "SQLServerConnection": {
+        "database": "OnlineShop",
+        "server": "DESKTOP-J3U84ON",
+        "driver": "msnodesqlv8",
+        "options": {
+            "trustedConnection": true
+        }
+    }
+}
